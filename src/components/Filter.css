@@ -1,0 +1,15 @@
+.search-input {
+    width: 15% !important;
+}
+
+.bi-list-ul:hover {
+    background-color: lightblue !important;
+    color: black !important;
+    cursor: pointer;
+}
+
+.bi-grid-3x3-gap-fill:hover {
+    background-color: lightblue !important;
+    color: black !important;
+    cursor: pointer;
+}

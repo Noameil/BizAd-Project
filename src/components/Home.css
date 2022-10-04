@@ -1,0 +1,22 @@
+.grid {
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 20px;
+    padding-bottom: 20px;
+}
+
+.grid .card {
+    max-width: 30%;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+    padding-bottom: 20px;
+}
+
+.list .card {
+    max-width: 50%;
+}
